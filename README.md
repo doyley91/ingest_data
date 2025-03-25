@@ -1,2 +1,2 @@
-# sf_ext_data_ingest
+# Data Ingestion
 Ingest external data into Snowflake
